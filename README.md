@@ -9,7 +9,7 @@ return the associated day in uppercase characters.
 If interest in my approach and comments, I invite you to read
 the following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/09/19/java-date-and-time/
 
 Keep on reading, experimenting and practicing. It is the best 
 way to lear.
